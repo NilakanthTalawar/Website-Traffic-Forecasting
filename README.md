@@ -321,4 +321,3 @@ Data Science Internship Project – Take It Smart (OPC) Pvt. Ltd.
 
 ## ⭐ If you found this project useful, consider giving it a star!
 
-This project is licensed under the MIT License.
