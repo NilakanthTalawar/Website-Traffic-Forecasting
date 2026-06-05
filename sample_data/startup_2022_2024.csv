@@ -1,0 +1,946 @@
+Date,Sessions,Users,New Users,Bounce Rate,Pages / Session,Avg. Session Duration,Conversions,Conversion Rate,Source / Medium,Country
+20220601,295,216,119,44.9,1.64,88,9,3.23,facebook / social,United States
+20220602,429,346,187,35.6,2.94,196,12,2.93,direct / none,India
+20220603,398,317,205,52.5,2.74,238,12,3.04,referral / referral,Others
+20220604,397,324,148,37.6,3.48,82,19,4.79,facebook / social,Canada
+20220605,294,250,141,34.4,3.53,236,10,3.58,direct / none,Others
+20220606,261,220,105,40.0,3.39,161,9,3.51,google / cpc,United States
+20220607,304,247,124,36.5,2.56,187,12,4.04,email / newsletter,United States
+20220608,367,274,151,49.3,3.07,252,6,1.64,referral / referral,India
+20220609,398,298,138,50.7,3.39,180,11,2.88,google / cpc,Germany
+20220610,343,261,140,46.7,3.36,137,10,3.05,twitter / social,France
+20220611,366,293,190,33.1,1.75,103,15,4.21,facebook / social,Canada
+20220612,322,257,133,53.0,2.14,212,19,5.95,facebook / social,Japan
+20220613,256,191,95,34.4,4.21,173,9,3.72,google / organic,Others
+20220614,276,232,128,50.8,3.13,223,12,4.52,direct / none,Others
+20220615,322,279,173,54.8,3.33,155,13,4.16,referral / referral,United States
+20220616,321,255,151,36.7,3.32,228,13,4.34,google / organic,United States
+20220617,398,324,174,37.5,3.75,231,15,3.84,twitter / social,United States
+20220618,306,259,121,58.0,3.31,193,12,3.95,youtube / social,India
+20220619,236,201,111,36.5,2.45,161,9,3.9,facebook / social,United Kingdom
+20220620,222,168,80,40.5,2.63,187,9,4.28,referral / referral,United States
+20220621,193,147,92,42.5,3.36,135,10,5.26,google / cpc,Others
+20220622,278,213,135,45.3,2.61,244,13,4.95,google / cpc,Japan
+20220623,302,236,119,40.3,2.09,190,12,4.05,youtube / social,United States
+20220624,337,278,178,36.5,4.93,243,16,4.95,youtube / social,United States
+20220625,293,242,123,68.8,2.1,172,14,5.03,twitter / social,Germany
+20220626,229,184,110,43.2,3.17,133,11,5.07,facebook / social,United States
+20220627,183,141,71,56.4,3.16,193,7,4.32,google / cpc,United States
+20220628,227,184,98,41.5,2.87,247,11,5.17,direct / none,United States
+20220629,299,227,115,38.2,3.71,292,13,4.65,twitter / social,United States
+20220630,390,323,193,32.4,3.59,123,19,4.99,referral / referral,United Kingdom
+20220701,368,310,141,50.6,2.91,118,15,4.3,youtube / social,Japan
+20220702,355,272,160,44.5,3.63,133,13,3.89,email / newsletter,Canada
+20220703,363,313,151,27.1,2.12,194,14,3.96,youtube / social,Australia
+20220704,276,239,138,48.3,2.87,120,7,2.82,facebook / social,Others
+20220705,299,260,152,34.0,2.88,168,14,4.78,google / cpc,United States
+20220706,362,304,183,38.2,2.91,219,14,3.94,youtube / social,India
+20220707,360,274,148,40.1,2.89,172,14,3.98,youtube / social,Brazil
+20220708,421,304,139,49.4,4.0,216,14,3.52,google / cpc,United States
+20220709,324,238,123,49.0,3.34,118,12,3.81,direct / none,United States
+20220710,347,297,146,36.6,4.46,119,17,4.94,facebook / social,Germany
+20220711,329,241,152,43.2,2.59,189,13,4.01,google / cpc,Australia
+20220712,272,237,149,35.6,2.89,132,5,2.14,twitter / social,Australia
+20220713,394,326,187,43.2,2.56,230,12,3.17,twitter / social,United States
+20220714,359,299,181,39.6,2.7,174,15,4.29,twitter / social,United States
+20220715,364,293,144,39.9,3.8,187,9,2.58,youtube / social,Japan
+20220716,368,297,144,43.4,3.64,196,13,3.7,twitter / social,United States
+20220717,254,204,101,55.1,3.49,108,8,3.42,referral / referral,United States
+20220718,215,186,83,40.7,2.01,149,7,3.51,referral / referral,Others
+20220719,270,195,118,40.4,3.29,151,7,2.83,twitter / social,United States
+20220720,261,227,115,49.1,3.24,231,9,3.75,google / organic,India
+20220721,336,286,157,46.7,4.66,132,11,3.31,twitter / social,France
+20220722,353,258,124,49.5,3.15,169,7,2.26,youtube / social,United States
+20220723,326,267,171,38.0,2.93,194,5,1.79,twitter / social,United States
+20220724,272,219,115,50.3,3.46,159,8,3.08,twitter / social,United Kingdom
+20220725,208,162,85,49.1,2.79,96,3,1.54,email / newsletter,United States
+20220726,194,169,95,48.1,3.06,163,7,3.96,twitter / social,Brazil
+20220727,324,256,134,46.0,2.36,237,8,2.47,referral / referral,United States
+20220728,445,331,196,52.9,2.42,132,8,1.93,twitter / social,United Kingdom
+20220729,406,334,205,38.6,3.23,262,9,2.29,google / organic,United States
+20220730,366,301,136,38.9,4.13,148,5,1.44,email / newsletter,Others
+20220731,281,207,131,37.5,2.64,247,3,1.36,youtube / social,United Kingdom
+20220801,253,183,118,39.7,3.32,216,3,1.45,email / newsletter,India
+20220802,242,185,101,50.1,3.36,127,2,1.0,facebook / social,Brazil
+20220803,368,311,150,51.0,3.27,209,3,1.02,twitter / social,Canada
+20220804,411,358,211,33.2,2.11,181,4,1.0,youtube / social,India
+20220805,473,405,211,38.0,2.87,184,10,2.14,referral / referral,Others
+20220806,367,273,150,33.5,3.45,250,3,1.0,direct / none,United Kingdom
+20220807,376,318,176,53.4,4.95,137,3,1.0,twitter / social,Germany
+20220808,286,232,143,40.6,2.41,175,2,1.0,twitter / social,India
+20220809,290,221,104,41.1,4.0,234,2,1.0,google / organic,France
+20220810,349,304,155,46.8,2.47,237,5,1.55,facebook / social,India
+20220811,400,298,162,37.9,3.57,197,11,2.92,email / newsletter,United Kingdom
+20220812,364,289,153,33.5,2.34,152,3,1.0,referral / referral,United Kingdom
+20220813,398,304,150,40.9,3.81,199,6,1.52,direct / none,United States
+20220814,330,251,162,52.9,3.72,186,5,1.8,email / newsletter,United States
+20220815,297,256,151,49.0,3.37,248,6,2.11,youtube / social,Japan
+20220816,286,245,154,41.0,3.12,125,4,1.58,direct / none,Brazil
+20220817,336,271,153,46.0,2.99,189,5,1.59,direct / none,Brazil
+20220818,317,235,116,42.5,2.81,211,10,3.37,facebook / social,Canada
+20220819,382,293,168,47.3,2.77,145,8,2.21,facebook / social,United Kingdom
+20220820,297,217,128,38.6,3.1,160,8,2.78,facebook / social,Germany
+20220821,255,216,124,46.6,3.57,205,8,3.3,google / cpc,India
+20220822,263,193,115,44.1,2.33,210,6,2.59,youtube / social,Brazil
+20220823,237,205,93,36.2,2.59,211,4,2.02,email / newsletter,United States
+20220824,219,173,109,48.8,3.09,107,2,1.0,referral / referral,United States
+20220825,329,268,122,42.0,3.1,163,7,2.39,referral / referral,Others
+20220826,362,264,132,40.4,3.48,282,8,2.42,direct / none,Australia
+20220827,339,291,147,51.9,3.76,164,9,2.89,google / cpc,India
+20220828,316,250,146,41.9,3.06,205,9,3.07,facebook / social,United States
+20220829,281,226,116,34.8,3.79,142,6,2.3,referral / referral,United States
+20220830,303,237,127,38.5,3.17,205,11,3.94,google / cpc,United States
+20220831,353,300,172,46.6,1.73,227,13,3.9,youtube / social,United Kingdom
+20220901,405,344,215,34.6,2.87,154,13,3.44,youtube / social,United States
+20220902,425,371,173,39.6,2.8,198,9,2.17,google / cpc,United States
+20220903,415,304,179,40.3,3.29,226,9,2.23,google / cpc,France
+20220904,370,308,147,51.9,2.92,143,10,2.94,email / newsletter,India
+20220905,352,286,166,33.8,3.74,132,15,4.49,youtube / social,United States
+20220906,325,237,119,43.0,2.74,180,9,2.8,referral / referral,France
+20220907,390,288,154,44.8,3.22,149,11,2.93,email / newsletter,Others
+20220908,483,396,188,36.8,1.5,175,10,2.12,google / cpc,United States
+20220909,417,345,185,54.7,3.68,193,15,3.7,facebook / social,United Kingdom
+20220910,429,371,228,41.3,2.51,233,18,4.43,referral / referral,United States
+20220911,310,238,135,53.0,3.12,221,12,4.01,twitter / social,Others
+20220912,334,278,180,45.5,3.97,126,14,4.33,email / newsletter,India
+20220913,335,276,125,35.6,2.59,231,13,4.08,referral / referral,India
+20220914,393,302,158,39.9,3.82,196,19,4.89,google / cpc,United States
+20220915,441,358,180,48.2,3.45,87,20,4.58,youtube / social,Canada
+20220916,427,333,154,34.3,3.22,140,7,1.7,direct / none,India
+20220917,324,245,141,37.9,2.83,117,16,5.04,referral / referral,Japan
+20220918,298,257,165,41.0,3.48,156,10,3.48,facebook / social,India
+20220919,265,232,140,33.5,4.82,134,6,2.31,email / newsletter,India
+20220920,264,221,137,64.6,3.26,200,11,4.32,youtube / social,Brazil
+20220921,304,258,166,56.0,2.78,165,10,3.52,facebook / social,India
+20220922,371,305,175,61.2,1.59,140,15,4.22,google / organic,France
+20220923,395,336,216,46.3,2.71,174,16,4.25,facebook / social,United States
+20220924,315,255,147,39.0,3.71,249,10,3.43,email / newsletter,India
+20220925,307,224,110,42.8,4.29,240,12,4.06,google / cpc,United States
+20220926,269,228,127,45.5,3.22,167,6,2.49,facebook / social,United Kingdom
+20220927,271,225,122,26.6,2.68,170,13,5.03,google / cpc,United States
+20220928,362,303,167,38.6,3.45,129,22,6.28,google / organic,United States
+20220929,444,344,222,57.5,3.86,226,15,3.41,google / cpc,India
+20220930,402,314,192,48.9,3.87,202,16,4.2,referral / referral,United States
+20221001,444,350,168,38.4,4.67,136,13,3.09,facebook / social,United Kingdom
+20221002,373,291,134,36.1,3.41,167,18,5.06,twitter / social,United Kingdom
+20221003,339,282,174,30.7,2.49,259,8,2.48,direct / none,United States
+20221004,358,296,174,36.1,2.5,172,16,4.63,facebook / social,United States
+20221005,412,359,224,32.8,2.49,262,15,3.79,twitter / social,United States
+20221006,452,349,188,47.2,2.92,166,28,6.32,twitter / social,United States
+20221007,445,357,189,40.9,3.43,132,12,2.77,direct / none,France
+20221008,440,332,149,51.3,3.3,170,15,3.46,direct / none,United States
+20221009,361,314,176,38.0,3.48,162,13,3.63,direct / none,Others
+20221010,291,245,118,32.7,3.55,202,7,2.7,google / organic,Australia
+20221011,373,298,165,34.8,3.68,143,15,4.04,google / organic,Australia
+20221012,397,292,163,50.7,3.3,200,17,4.52,google / cpc,India
+20221013,414,303,154,45.0,2.46,174,19,4.63,twitter / social,India
+20221014,383,281,146,35.9,2.87,183,8,2.12,email / newsletter,Australia
+20221015,356,271,152,44.5,2.03,196,10,2.85,twitter / social,Germany
+20221016,323,263,155,38.4,3.73,194,9,2.97,twitter / social,United States
+20221017,254,216,130,45.4,3.04,240,5,2.06,direct / none,United States
+20221018,231,185,119,40.7,3.95,200,6,2.74,referral / referral,United States
+20221019,332,248,133,37.7,4.04,197,10,3.07,youtube / social,Germany
+20221020,375,294,159,47.3,2.78,270,3,1.0,google / cpc,Others
+20221021,381,318,148,33.3,3.63,234,9,2.39,google / organic,India
+20221022,316,268,139,51.1,2.66,143,7,2.25,youtube / social,United Kingdom
+20221023,300,223,121,50.9,4.37,171,5,1.92,youtube / social,Australia
+20221024,221,170,104,54.6,3.82,238,4,1.94,email / newsletter,France
+20221025,267,219,101,42.4,3.77,192,5,2.1,facebook / social,India
+20221026,373,298,143,49.9,4.3,168,4,1.25,facebook / social,India
+20221027,442,328,150,50.8,2.84,150,4,1.0,direct / none,Others
+20221028,424,321,173,51.4,3.75,113,10,2.54,youtube / social,Others
+20221029,303,222,108,39.9,3.32,244,4,1.53,direct / none,United States
+20221030,362,303,189,21.2,4.2,167,3,1.0,facebook / social,India
+20221031,279,213,125,40.7,3.48,215,5,1.98,facebook / social,United States
+20221101,287,233,149,40.7,2.69,190,3,1.1,youtube / social,Canada
+20221102,417,339,206,60.4,3.47,142,4,1.0,email / newsletter,United States
+20221103,403,343,181,31.2,1.5,217,7,1.83,referral / referral,United Kingdom
+20221104,498,403,183,20.2,3.81,202,4,1.0,email / newsletter,United States
+20221105,465,389,207,37.6,3.01,269,7,1.67,email / newsletter,Others
+20221106,389,287,148,56.7,2.8,221,3,1.0,youtube / social,India
+20221107,338,283,157,54.5,4.11,164,5,1.51,youtube / social,Canada
+20221108,340,278,150,48.6,4.18,219,4,1.28,facebook / social,Australia
+20221109,383,284,153,44.9,2.8,149,8,2.17,email / newsletter,Germany
+20221110,418,359,185,45.9,3.03,227,14,3.5,youtube / social,Germany
+20221111,529,382,231,54.9,3.04,210,12,2.33,twitter / social,India
+20221112,397,287,165,44.8,2.26,202,8,2.12,google / cpc,India
+20221113,309,244,129,44.0,2.82,186,3,1.0,email / newsletter,Others
+20221114,286,216,107,31.6,2.62,203,4,1.57,email / newsletter,United States
+20221115,313,257,159,37.1,2.82,196,7,2.24,facebook / social,Others
+20221116,378,287,138,51.9,3.49,178,8,2.35,youtube / social,Japan
+20221117,393,294,190,44.7,2.28,252,6,1.69,email / newsletter,Canada
+20221118,404,350,227,38.7,2.55,160,7,1.75,youtube / social,United States
+20221119,342,292,151,42.7,3.24,128,12,3.63,twitter / social,India
+20221120,292,226,108,31.4,1.88,155,4,1.66,google / organic,United States
+20221121,286,217,108,43.4,2.93,259,4,1.6,youtube / social,Australia
+20221122,275,220,122,30.9,3.93,193,4,1.67,google / cpc,United States
+20221123,328,249,141,50.6,2.86,89,7,2.32,twitter / social,United States
+20221124,408,296,171,52.3,2.51,191,9,2.36,facebook / social,Germany
+20221125,401,336,181,51.7,3.23,186,11,2.97,direct / none,Japan
+20221126,326,262,132,41.1,2.79,144,6,2.12,email / newsletter,Canada
+20221127,320,266,157,27.1,2.29,128,7,2.24,referral / referral,United Kingdom
+20221128,213,154,82,46.5,2.64,149,3,1.66,email / newsletter,Others
+20221129,318,230,117,58.4,3.53,188,8,2.68,referral / referral,Japan
+20221130,405,292,183,39.1,3.85,121,12,3.13,twitter / social,Brazil
+20221201,489,388,176,39.0,2.21,131,11,2.37,google / cpc,United States
+20221202,496,396,229,42.2,2.97,155,19,3.85,direct / none,United States
+20221203,446,382,240,54.8,3.12,223,14,3.15,email / newsletter,United States
+20221204,353,266,146,33.1,3.02,139,11,3.3,google / organic,Canada
+20221205,312,263,134,34.6,3.24,194,15,5.04,direct / none,Germany
+20221206,354,309,176,36.8,3.26,141,15,4.45,google / organic,United States
+20221207,392,285,143,53.1,2.45,109,14,3.82,facebook / social,India
+20221208,444,355,205,40.2,3.8,84,12,2.73,google / cpc,Germany
+20221209,485,399,198,36.4,2.67,179,13,2.87,google / cpc,United Kingdom
+20221210,411,342,191,42.2,3.43,161,19,4.65,facebook / social,United States
+20221211,311,238,107,46.4,4.28,184,11,3.62,youtube / social,Japan
+20221212,310,225,142,27.1,3.58,187,12,4.18,direct / none,India
+20221213,295,247,148,32.7,3.61,238,12,4.17,google / cpc,Germany
+20221214,390,322,166,64.6,3.39,245,19,5.04,youtube / social,Germany
+20221215,464,389,239,43.5,3.25,252,12,2.79,google / cpc,United States
+20221216,456,344,171,57.9,3.81,171,13,2.95,direct / none,Others
+20221217,400,307,198,29.2,2.71,212,18,4.69,facebook / social,Australia
+20221218,358,267,127,50.3,2.29,135,16,4.71,youtube / social,Others
+20221219,244,196,93,47.1,2.6,157,8,3.65,email / newsletter,India
+20221220,269,196,112,35.6,2.8,194,11,4.3,twitter / social,United States
+20221221,351,290,160,49.6,2.1,135,14,4.21,google / organic,United States
+20221222,395,297,153,36.5,2.86,192,15,3.92,referral / referral,Australia
+20221223,429,376,198,22.6,3.76,116,19,4.47,youtube / social,United States
+20221224,378,290,186,35.4,2.4,157,18,4.98,facebook / social,Brazil
+20221225,323,274,126,42.0,3.85,174,19,6.15,twitter / social,United States
+20221226,285,205,114,50.7,3.24,157,11,3.96,youtube / social,Germany
+20221227,343,299,148,34.2,2.62,180,16,4.95,youtube / social,Others
+20221228,383,278,155,39.9,3.28,203,17,4.5,referral / referral,United States
+20221229,417,359,215,33.1,3.16,169,16,3.9,direct / none,United States
+20221230,475,377,226,47.7,3.25,158,17,3.76,email / newsletter,Others
+20221231,428,363,164,46.7,2.26,192,18,4.21,facebook / social,United States
+20230101,431,374,201,40.2,3.33,176,19,4.53,facebook / social,United States
+20230102,363,305,154,43.4,3.31,180,14,3.98,youtube / social,Australia
+20230103,409,326,161,42.3,3.58,193,17,4.19,referral / referral,Australia
+20230104,435,344,163,57.0,2.45,199,11,2.64,email / newsletter,United States
+20230105,518,443,211,53.6,2.3,203,6,1.29,youtube / social,United States
+20230106,526,460,214,58.2,2.47,179,23,4.41,referral / referral,United Kingdom
+20230107,477,385,244,34.3,1.98,148,15,3.29,google / cpc,United Kingdom
+20230108,338,248,143,44.9,3.77,210,8,2.47,google / cpc,India
+20230109,350,290,134,46.4,3.12,178,10,3.06,youtube / social,Germany
+20230110,392,309,192,52.3,4.04,174,10,2.59,referral / referral,Germany
+20230111,403,297,168,36.9,3.59,223,11,2.81,referral / referral,Germany
+20230112,489,421,257,41.0,2.89,189,13,2.71,email / newsletter,United States
+20230113,446,345,156,30.3,2.03,139,4,1.0,facebook / social,India
+20230114,403,333,175,36.4,3.58,200,12,3.0,twitter / social,United States
+20230115,361,266,134,49.7,3.6,221,10,2.91,google / cpc,United States
+20230116,251,219,107,50.0,3.38,230,2,1.18,twitter / social,India
+20230117,354,297,167,35.0,3.59,199,6,1.92,twitter / social,India
+20230118,351,265,159,32.5,4.3,199,13,3.79,google / organic,United States
+20230119,456,367,228,40.3,3.89,272,11,2.63,google / organic,Japan
+20230120,414,327,187,37.0,2.72,160,10,2.42,google / organic,Brazil
+20230121,416,341,175,56.1,3.9,232,11,2.72,google / cpc,United States
+20230122,319,280,163,37.7,2.7,192,7,2.3,google / organic,India
+20230123,250,216,131,48.7,2.83,203,4,1.69,referral / referral,India
+20230124,305,240,115,49.5,3.1,111,4,1.5,direct / none,Canada
+20230125,381,320,202,48.3,4.03,181,7,1.98,direct / none,India
+20230126,465,386,212,36.2,3.47,133,7,1.64,google / cpc,Others
+20230127,451,383,207,35.2,2.92,143,9,2.04,youtube / social,Others
+20230128,458,348,200,38.7,4.44,318,9,2.01,facebook / social,United Kingdom
+20230129,378,282,171,42.7,3.71,138,6,1.59,direct / none,Others
+20230130,293,242,127,36.5,3.03,241,6,2.34,google / cpc,India
+20230131,404,317,151,47.6,3.72,214,6,1.55,email / newsletter,United Kingdom
+20230201,470,377,214,44.7,3.39,159,10,2.15,facebook / social,United States
+20230202,490,355,196,51.7,3.23,142,4,1.01,direct / none,United States
+20230203,511,368,172,40.4,2.75,169,6,1.21,twitter / social,India
+20230204,461,332,195,52.6,3.52,193,5,1.11,facebook / social,United States
+20230205,422,364,215,44.7,3.61,163,4,1.13,youtube / social,Australia
+20230206,349,280,140,35.6,4.38,190,8,2.56,youtube / social,India
+20230207,402,330,167,54.9,2.52,213,7,1.89,google / cpc,Japan
+20230208,425,354,214,41.0,3.3,193,9,2.23,email / newsletter,India
+20230209,443,384,223,44.1,3.81,154,8,1.86,referral / referral,United States
+20230210,509,421,260,56.2,3.76,172,6,1.34,google / organic,United Kingdom
+20230211,454,368,204,37.7,2.48,172,10,2.37,email / newsletter,United States
+20230212,312,259,153,45.7,3.23,184,4,1.35,email / newsletter,United States
+20230213,325,269,135,37.8,3.8,230,5,1.84,referral / referral,United States
+20230214,344,283,164,52.4,3.28,212,6,1.76,google / cpc,Japan
+20230215,377,300,139,32.6,4.22,172,10,2.67,twitter / social,Germany
+20230216,419,311,170,41.3,2.71,205,6,1.59,email / newsletter,Others
+20230217,482,405,258,50.7,2.66,161,11,2.4,referral / referral,United States
+20230218,383,298,150,52.4,3.69,235,8,2.1,referral / referral,United States
+20230219,391,312,141,46.9,3.59,150,13,3.43,google / cpc,Australia
+20230220,279,233,116,23.9,3.23,132,6,2.29,google / organic,India
+20230221,347,288,176,54.3,3.56,237,13,3.82,referral / referral,Brazil
+20230222,437,354,198,42.4,3.02,189,12,2.81,youtube / social,India
+20230223,409,321,189,40.4,3.4,167,19,4.73,google / organic,United States
+20230224,484,419,193,44.4,2.27,174,10,2.14,direct / none,Canada
+20230225,416,337,160,48.2,4.12,173,16,4.06,google / organic,Germany
+20230226,405,339,168,34.0,2.53,213,9,2.32,google / cpc,Brazil
+20230227,393,337,179,46.5,3.51,152,12,3.2,google / cpc,United States
+20230228,426,322,192,38.0,2.98,165,18,4.43,youtube / social,India
+20230301,469,376,242,57.7,3.14,146,21,4.54,direct / none,India
+20230302,494,416,246,51.8,4.37,267,14,2.93,twitter / social,United States
+20230303,545,427,196,43.3,4.54,181,19,3.55,direct / none,Others
+20230304,566,496,313,58.5,2.88,199,22,3.92,referral / referral,Others
+20230305,462,384,206,42.3,3.05,198,21,4.64,google / organic,India
+20230306,451,365,193,30.0,3.94,237,13,2.93,twitter / social,Japan
+20230307,432,332,190,47.8,2.74,200,20,4.78,google / cpc,United States
+20230308,418,320,181,48.0,1.88,147,13,3.23,youtube / social,Canada
+20230309,499,411,239,40.6,2.76,138,24,4.89,email / newsletter,United Kingdom
+20230310,538,441,246,46.9,2.8,179,17,3.28,referral / referral,Canada
+20230311,441,365,168,49.5,4.45,147,19,4.46,google / organic,Others
+20230312,417,301,168,41.1,2.48,288,13,3.17,facebook / social,United States
+20230313,290,221,138,41.7,3.79,214,16,5.52,google / cpc,India
+20230314,352,305,150,42.2,2.98,193,14,4.24,direct / none,India
+20230315,423,366,206,40.8,4.43,172,25,6.13,twitter / social,United States
+20230316,402,329,186,41.0,4.03,160,17,4.48,referral / referral,Others
+20230317,483,403,204,52.7,3.96,178,21,4.48,twitter / social,Others
+20230318,448,329,154,46.9,3.47,170,24,5.43,twitter / social,Germany
+20230319,381,319,205,45.8,2.88,214,16,4.24,referral / referral,Others
+20230320,262,211,99,34.2,1.99,211,9,3.58,email / newsletter,India
+20230321,284,232,114,42.3,3.75,109,11,4.06,facebook / social,United Kingdom
+20230322,422,349,163,43.8,3.45,163,16,4.0,google / cpc,United States
+20230323,484,415,193,41.0,3.69,124,24,5.05,google / organic,France
+20230324,438,328,183,49.8,4.27,93,27,6.2,google / cpc,India
+20230325,396,306,195,32.8,2.79,107,19,4.96,referral / referral,India
+20230326,408,321,145,37.6,3.41,175,17,4.17,google / organic,United States
+20230327,288,221,138,21.7,2.97,196,10,3.55,twitter / social,United States
+20230328,390,337,178,36.0,3.24,192,14,3.68,youtube / social,Brazil
+20230329,388,336,157,54.7,3.46,218,16,4.14,google / organic,Brazil
+20230330,461,398,179,33.4,2.61,181,21,4.69,direct / none,Others
+20230331,529,425,238,38.0,3.11,140,27,5.24,email / newsletter,United States
+20230401,512,380,179,53.7,2.76,120,16,3.17,twitter / social,Brazil
+20230402,453,340,154,32.9,3.25,178,9,2.06,google / cpc,United States
+20230403,400,331,168,28.5,4.12,148,15,3.86,email / newsletter,Canada
+20230404,386,291,186,47.5,2.72,188,14,3.72,youtube / social,India
+20230405,447,334,168,51.7,3.53,237,21,4.78,twitter / social,United States
+20230406,535,437,225,45.7,4.07,218,15,2.88,youtube / social,United States
+20230407,560,488,261,21.9,3.32,220,23,4.22,facebook / social,United States
+20230408,467,381,205,43.8,2.27,163,21,4.65,facebook / social,United States
+20230409,403,291,189,39.9,3.38,168,12,3.13,email / newsletter,India
+20230410,358,291,165,43.2,3.08,133,16,4.56,google / cpc,Canada
+20230411,384,318,174,40.7,1.93,176,7,1.95,youtube / social,Germany
+20230412,405,299,167,37.9,3.19,231,12,3.2,facebook / social,France
+20230413,483,404,183,45.8,3.35,175,12,2.66,google / organic,United States
+20230414,497,372,238,34.4,3.35,143,16,3.36,direct / none,India
+20230415,459,394,211,37.9,3.23,225,14,3.09,referral / referral,United Kingdom
+20230416,386,339,193,44.8,2.75,238,6,1.58,email / newsletter,United States
+20230417,290,210,105,44.7,3.8,180,7,2.49,email / newsletter,Others
+20230418,341,273,141,39.7,2.98,171,9,2.86,facebook / social,Australia
+20230419,410,328,209,51.2,3.59,220,7,1.82,referral / referral,Brazil
+20230420,435,347,178,62.5,3.33,200,11,2.54,google / organic,United States
+20230421,460,343,215,22.2,2.68,124,15,3.26,email / newsletter,India
+20230422,477,375,186,38.2,4.01,151,5,1.08,facebook / social,India
+20230423,316,275,136,44.1,4.02,168,13,4.26,google / organic,United States
+20230424,407,349,207,49.1,3.38,134,4,1.0,email / newsletter,Japan
+20230425,400,306,150,37.3,4.34,227,8,2.06,youtube / social,India
+20230426,422,317,204,29.1,4.39,200,4,1.0,referral / referral,India
+20230427,547,481,300,48.9,3.36,211,7,1.33,google / cpc,India
+20230428,492,395,205,41.9,3.37,174,10,2.2,youtube / social,India
+20230429,505,431,253,40.2,3.37,208,12,2.41,facebook / social,Others
+20230430,390,322,161,46.7,3.1,158,6,1.7,google / cpc,India
+20230501,445,384,182,31.0,3.08,154,7,1.72,direct / none,United States
+20230502,398,318,146,41.2,4.36,194,9,2.44,direct / none,United States
+20230503,506,410,253,38.1,2.58,112,5,1.0,twitter / social,India
+20230504,547,471,260,45.3,3.16,231,12,2.29,google / organic,Others
+20230505,545,403,229,49.4,3.09,206,11,2.14,google / cpc,United States
+20230506,498,380,234,42.4,2.49,186,7,1.58,direct / none,France
+20230507,522,442,276,46.1,2.68,129,15,2.93,referral / referral,United States
+20230508,381,282,139,48.5,3.79,227,7,1.95,twitter / social,United States
+20230509,426,352,211,37.0,3.42,247,6,1.64,youtube / social,United States
+20230510,482,394,197,44.5,2.78,202,9,1.93,google / cpc,United States
+20230511,547,477,288,37.6,3.09,217,12,2.37,google / cpc,Canada
+20230512,553,423,266,39.9,3.65,191,5,1.0,google / cpc,United States
+20230513,438,371,227,47.3,4.28,180,6,1.42,youtube / social,Canada
+20230514,398,345,213,45.1,2.65,146,9,2.33,referral / referral,United States
+20230515,371,298,187,28.4,2.36,165,8,2.26,email / newsletter,Germany
+20230516,369,281,146,44.0,3.8,106,5,1.42,twitter / social,Canada
+20230517,393,331,178,52.5,2.83,122,7,1.99,facebook / social,Australia
+20230518,455,346,193,47.3,3.76,160,12,2.68,email / newsletter,India
+20230519,481,401,260,52.1,2.61,155,10,2.15,google / cpc,Australia
+20230520,408,312,180,45.7,2.46,90,13,3.28,google / cpc,United States
+20230521,378,312,187,39.3,2.74,186,9,2.53,referral / referral,United Kingdom
+20230522,360,260,158,35.3,4.02,156,9,2.76,youtube / social,United States
+20230523,379,300,169,45.1,4.31,208,7,1.99,facebook / social,Canada
+20230524,443,356,210,31.0,3.46,194,12,2.74,youtube / social,United States
+20230525,467,371,184,51.4,2.84,227,14,3.08,referral / referral,United States
+20230526,468,395,242,46.8,3.53,172,6,1.4,youtube / social,Japan
+20230527,495,382,200,47.0,3.83,215,19,3.89,youtube / social,Germany
+20230528,407,298,160,44.3,2.99,185,11,2.71,google / cpc,United Kingdom
+20230529,408,296,176,49.3,3.21,180,9,2.41,youtube / social,United States
+20230530,466,399,192,46.0,3.67,229,17,3.77,referral / referral,Others
+20230531,490,429,197,46.8,3.58,257,11,2.43,facebook / social,United States
+20230601,541,423,239,42.4,3.18,177,12,2.34,twitter / social,United Kingdom
+20230602,544,440,200,24.5,3.95,166,18,3.35,referral / referral,United States
+20230603,499,432,267,24.4,3.13,192,20,4.04,email / newsletter,United States
+20230604,502,367,224,58.9,3.16,177,26,5.35,referral / referral,Germany
+20230605,348,271,175,36.1,4.6,217,13,3.77,google / organic,Canada
+20230606,427,329,176,36.3,3.33,181,17,3.99,google / organic,United Kingdom
+20230607,522,446,219,42.4,3.47,254,19,3.64,email / newsletter,United States
+20230608,509,390,250,48.7,3.29,231,19,3.86,direct / none,India
+20230609,545,398,218,41.3,4.46,199,24,4.58,twitter / social,Germany
+20230610,491,397,226,38.4,2.53,147,24,4.98,twitter / social,United States
+20230611,443,350,214,36.2,3.68,207,16,3.73,google / cpc,Brazil
+20230612,421,323,155,39.0,3.53,164,19,4.73,twitter / social,United States
+20230613,371,270,127,38.5,2.35,220,12,3.37,google / cpc,United States
+20230614,406,312,177,47.2,2.81,180,14,3.58,email / newsletter,Australia
+20230615,470,348,221,47.6,3.13,219,20,4.46,google / cpc,Others
+20230616,558,420,212,31.7,3.02,187,19,3.5,youtube / social,India
+20230617,515,415,236,46.3,2.89,140,28,5.54,twitter / social,United States
+20230618,402,299,190,44.9,2.97,197,15,3.81,direct / none,Germany
+20230619,368,284,143,43.0,4.76,292,12,3.48,email / newsletter,United States
+20230620,347,288,183,42.4,3.19,174,13,3.87,direct / none,Australia
+20230621,459,378,209,36.1,3.06,66,22,4.91,youtube / social,United States
+20230622,485,363,163,50.3,2.82,178,24,5.04,email / newsletter,Germany
+20230623,488,417,218,28.3,2.2,178,26,5.41,email / newsletter,United States
+20230624,488,399,214,44.1,3.84,175,28,5.91,twitter / social,Others
+20230625,415,330,170,38.7,3.56,132,17,4.33,email / newsletter,United States
+20230626,398,288,147,64.2,2.67,161,14,3.62,facebook / social,India
+20230627,414,342,182,41.1,2.97,188,14,3.53,referral / referral,Brazil
+20230628,493,407,248,39.6,2.37,201,23,4.75,twitter / social,Germany
+20230629,552,456,292,30.9,2.43,209,32,5.94,youtube / social,Others
+20230630,626,500,281,50.3,2.43,147,18,2.93,twitter / social,France
+20230701,557,405,230,47.8,3.74,179,29,5.3,youtube / social,United Kingdom
+20230702,463,349,196,54.5,2.28,147,18,4.04,google / cpc,Germany
+20230703,450,359,183,43.3,3.26,190,20,4.6,google / cpc,Australia
+20230704,432,361,226,47.0,2.55,120,13,3.16,referral / referral,United States
+20230705,507,407,231,30.0,2.03,131,24,4.77,email / newsletter,United States
+20230706,532,416,213,46.1,3.65,168,27,5.14,direct / none,United States
+20230707,542,470,296,45.6,3.79,178,26,4.88,google / organic,India
+20230708,530,437,202,37.0,4.11,214,15,2.91,google / cpc,Germany
+20230709,412,334,159,41.8,2.98,189,13,3.35,facebook / social,India
+20230710,410,327,184,55.7,2.78,155,6,1.5,email / newsletter,India
+20230711,401,293,187,36.6,3.38,188,12,3.0,facebook / social,Others
+20230712,465,367,224,38.4,3.29,119,14,3.02,referral / referral,Germany
+20230713,536,414,218,44.6,4.19,244,20,3.78,facebook / social,Others
+20230714,552,456,248,46.3,3.58,221,13,2.38,youtube / social,India
+20230715,488,404,241,47.7,2.34,144,15,3.12,youtube / social,Germany
+20230716,380,311,163,49.2,3.82,228,4,1.1,google / organic,India
+20230717,382,314,147,49.5,3.78,155,4,1.31,direct / none,Others
+20230718,420,324,202,48.2,3.2,228,7,1.83,google / cpc,Canada
+20230719,444,377,213,36.6,3.35,210,12,2.85,youtube / social,India
+20230720,439,354,217,36.6,4.23,182,4,1.03,twitter / social,France
+20230721,476,364,181,50.4,4.16,173,5,1.15,referral / referral,France
+20230722,489,409,260,52.5,2.44,157,5,1.12,email / newsletter,Others
+20230723,411,327,193,61.7,4.53,184,4,1.0,youtube / social,Brazil
+20230724,456,366,169,58.0,3.25,164,12,2.66,direct / none,United States
+20230725,396,305,148,46.9,3.01,214,4,1.03,google / cpc,United States
+20230726,471,343,195,48.1,3.73,198,4,1.0,youtube / social,India
+20230727,562,437,257,45.0,3.04,196,11,1.96,referral / referral,United States
+20230728,496,408,219,51.8,2.88,86,6,1.27,google / organic,United States
+20230729,561,430,218,30.4,3.4,182,8,1.52,direct / none,United States
+20230730,469,367,185,57.6,3.2,202,10,2.21,google / cpc,United Kingdom
+20230731,399,289,134,39.5,4.17,216,7,1.89,direct / none,United States
+20230801,447,389,235,31.3,3.19,245,12,2.71,google / organic,United States
+20230802,555,408,240,50.2,4.04,197,5,1.0,referral / referral,Others
+20230803,588,436,279,46.0,3.51,139,15,2.7,twitter / social,India
+20230804,510,373,218,38.5,2.03,197,7,1.43,referral / referral,India
+20230805,563,485,269,36.1,3.23,144,5,1.0,direct / none,India
+20230806,470,351,181,38.2,1.79,158,12,2.58,facebook / social,Canada
+20230807,439,354,181,40.9,3.1,191,14,3.23,google / cpc,United States
+20230808,402,316,179,46.7,3.64,167,7,1.74,youtube / social,Others
+20230809,522,439,218,41.6,3.52,145,7,1.51,youtube / social,Canada
+20230810,572,502,274,66.7,3.38,224,15,2.65,youtube / social,Others
+20230811,553,480,279,54.3,3.93,268,9,1.8,youtube / social,United Kingdom
+20230812,501,417,197,37.5,3.18,212,5,1.0,referral / referral,United States
+20230813,463,374,205,39.6,3.66,161,7,1.63,google / cpc,Germany
+20230814,397,289,170,37.0,2.82,219,11,2.84,email / newsletter,India
+20230815,385,317,201,46.7,3.25,151,7,1.92,google / organic,Brazil
+20230816,443,353,173,37.1,3.21,150,13,3.06,google / cpc,India
+20230817,520,450,287,55.0,2.96,147,12,2.45,google / cpc,Canada
+20230818,576,428,244,29.5,3.71,184,6,1.13,email / newsletter,United Kingdom
+20230819,468,344,190,43.6,2.88,165,13,2.96,referral / referral,Others
+20230820,408,353,227,43.2,3.14,162,8,2.16,email / newsletter,Others
+20230821,410,334,156,38.4,3.83,172,4,1.0,referral / referral,United States
+20230822,391,319,183,37.5,2.49,162,8,2.29,direct / none,United States
+20230823,445,349,175,20.0,2.62,92,19,4.47,youtube / social,United Kingdom
+20230824,509,367,181,46.4,3.15,217,10,2.16,email / newsletter,United States
+20230825,607,469,270,36.7,4.54,182,27,4.49,facebook / social,India
+20230826,506,369,181,45.6,4.58,157,14,2.91,google / organic,Germany
+20230827,468,357,220,49.5,2.93,188,14,3.19,twitter / social,Canada
+20230828,397,342,165,35.6,2.85,152,11,2.89,referral / referral,Australia
+20230829,461,388,182,43.9,2.61,222,15,3.31,youtube / social,United States
+20230830,515,411,262,41.4,3.82,239,16,3.28,google / cpc,Others
+20230831,584,438,222,52.4,3.23,183,20,3.56,google / organic,India
+20230901,593,452,216,34.1,3.15,122,7,1.22,facebook / social,Australia
+20230902,567,458,210,20.0,2.06,173,26,4.62,twitter / social,United States
+20230903,494,384,194,43.0,2.95,163,13,2.71,twitter / social,United States
+20230904,450,367,198,52.0,3.38,231,7,1.61,google / cpc,Germany
+20230905,445,363,223,50.0,4.27,190,18,4.21,twitter / social,United Kingdom
+20230906,499,365,202,43.2,3.87,200,20,4.17,email / newsletter,France
+20230907,596,493,235,55.5,3.7,146,29,5.0,google / organic,India
+20230908,574,457,295,46.7,2.97,93,21,3.67,facebook / social,United States
+20230909,565,469,261,40.6,3.92,226,26,4.69,youtube / social,United States
+20230910,443,330,209,32.4,3.87,202,19,4.34,email / newsletter,India
+20230911,391,316,145,34.3,3.42,209,20,5.26,google / organic,United States
+20230912,448,322,160,44.0,4.53,204,20,4.61,google / cpc,India
+20230913,464,393,244,50.8,3.79,110,22,4.83,referral / referral,India
+20230914,514,416,201,41.2,3.73,196,19,3.72,email / newsletter,Germany
+20230915,524,382,201,35.2,2.82,158,25,4.88,google / cpc,Japan
+20230916,534,410,230,20.3,3.29,235,31,5.93,google / cpc,United Kingdom
+20230917,429,336,214,41.5,3.15,246,21,4.91,referral / referral,United States
+20230918,409,316,153,38.5,2.61,109,20,4.9,facebook / social,Canada
+20230919,440,336,177,53.5,3.29,235,18,4.24,google / organic,France
+20230920,485,424,252,39.0,2.55,155,18,3.75,google / organic,United States
+20230921,505,385,194,44.3,3.7,197,21,4.27,google / organic,France
+20230922,570,495,318,48.1,3.19,221,27,4.87,email / newsletter,United States
+20230923,566,454,262,40.4,2.93,210,23,4.08,email / newsletter,Australia
+20230924,497,371,191,33.7,1.71,164,20,4.16,direct / none,India
+20230925,446,327,171,58.9,2.88,164,21,4.89,youtube / social,United States
+20230926,446,387,222,37.6,3.43,146,20,4.52,facebook / social,United States
+20230927,555,457,252,46.8,2.73,153,22,4.11,google / organic,United States
+20230928,538,391,178,55.9,2.78,206,18,3.5,youtube / social,India
+20230929,646,494,226,49.0,3.69,228,26,4.12,google / cpc,United States
+20230930,615,467,264,47.5,3.19,112,23,3.8,youtube / social,France
+20231001,487,420,253,44.0,3.02,236,21,4.33,email / newsletter,Germany
+20231002,476,402,254,52.7,2.21,155,24,5.23,twitter / social,France
+20231003,433,313,188,32.7,3.58,145,13,3.04,email / newsletter,United States
+20231004,540,389,227,40.1,3.93,242,17,3.22,direct / none,Australia
+20231005,578,439,256,46.0,3.51,144,16,2.92,youtube / social,United States
+20231006,565,475,246,41.7,1.5,171,20,3.65,referral / referral,United Kingdom
+20231007,565,417,213,54.7,3.2,199,16,2.95,direct / none,Others
+20231008,534,389,217,32.3,3.17,171,24,4.54,google / cpc,United Kingdom
+20231009,465,370,229,55.1,3.65,235,8,1.83,google / cpc,United Kingdom
+20231010,431,355,210,53.0,3.54,217,14,3.31,google / organic,India
+20231011,538,435,279,31.8,3.05,179,16,3.02,facebook / social,United States
+20231012,574,420,190,47.6,3.45,239,18,3.28,google / cpc,United States
+20231013,616,463,298,36.3,3.09,267,18,3.07,direct / none,United Kingdom
+20231014,501,416,202,40.9,3.03,183,13,2.69,email / newsletter,United States
+20231015,470,350,214,43.7,2.76,210,9,2.05,google / organic,United States
+20231016,457,333,154,31.2,3.74,207,6,1.4,google / organic,Others
+20231017,358,284,155,42.9,2.69,185,9,2.67,facebook / social,India
+20231018,498,411,222,40.1,2.75,158,10,2.01,email / newsletter,Others
+20231019,505,388,210,51.4,3.72,166,5,1.0,direct / none,United Kingdom
+20231020,539,410,261,52.6,3.63,187,9,1.83,email / newsletter,United States
+20231021,526,421,225,31.3,2.83,204,5,1.0,google / organic,United Kingdom
+20231022,476,379,241,48.7,2.83,197,13,2.85,direct / none,United States
+20231023,486,391,242,34.7,3.67,202,10,2.17,google / organic,United States
+20231024,463,344,197,41.5,3.45,118,16,3.58,direct / none,Canada
+20231025,525,426,201,35.3,4.18,183,9,1.81,google / organic,India
+20231026,572,481,223,59.9,4.06,180,5,1.0,referral / referral,United States
+20231027,582,419,250,39.9,2.15,227,10,1.72,google / cpc,Others
+20231028,545,451,286,28.7,2.37,246,5,1.0,facebook / social,Others
+20231029,546,471,271,37.9,2.41,106,6,1.2,google / organic,United Kingdom
+20231030,457,397,229,38.7,3.84,172,12,2.68,youtube / social,United States
+20231031,549,429,257,31.1,4.54,174,8,1.48,google / organic,Brazil
+20231101,578,486,269,53.8,1.54,184,12,2.22,google / organic,Others
+20231102,655,567,289,45.0,3.2,167,9,1.51,email / newsletter,Brazil
+20231103,623,480,277,41.0,2.6,267,6,1.0,facebook / social,Australia
+20231104,628,551,250,44.1,3.76,172,12,1.95,youtube / social,United States
+20231105,502,435,248,37.2,2.64,163,7,1.51,facebook / social,Germany
+20231106,465,352,200,44.8,4.38,222,10,2.29,facebook / social,Australia
+20231107,428,346,199,44.4,2.94,79,12,2.94,email / newsletter,United States
+20231108,481,385,224,27.8,3.68,182,4,1.0,facebook / social,United States
+20231109,554,416,199,47.4,3.04,172,5,1.0,youtube / social,Canada
+20231110,593,519,257,36.0,2.05,172,7,1.3,direct / none,United Kingdom
+20231111,544,396,225,45.8,3.58,107,7,1.38,youtube / social,United States
+20231112,485,365,170,41.7,2.69,212,6,1.28,facebook / social,France
+20231113,424,370,193,42.1,3.86,237,7,1.76,google / organic,United States
+20231114,379,274,147,47.1,1.89,155,3,1.0,google / cpc,United States
+20231115,469,350,186,58.2,3.88,237,12,2.58,email / newsletter,United States
+20231116,531,455,260,44.9,2.94,168,13,2.47,referral / referral,United States
+20231117,575,502,297,41.3,2.86,198,15,2.75,google / cpc,Others
+20231118,549,420,223,29.2,2.85,213,12,2.19,google / organic,Japan
+20231119,442,319,192,41.3,2.01,93,13,3.16,email / newsletter,United States
+20231120,386,281,179,36.5,3.28,203,16,4.29,youtube / social,United States
+20231121,466,383,236,54.3,4.12,211,15,3.23,twitter / social,United Kingdom
+20231122,561,470,248,44.8,3.47,195,14,2.54,referral / referral,India
+20231123,629,512,296,55.6,3.84,245,12,2.06,referral / referral,Australia
+20231124,600,526,324,38.7,2.69,156,10,1.73,youtube / social,United States
+20231125,572,432,271,36.6,3.27,185,19,3.35,youtube / social,United States
+20231126,502,430,277,53.9,3.21,235,18,3.72,direct / none,United States
+20231127,524,404,258,34.1,3.36,205,21,4.05,google / organic,United States
+20231128,502,371,214,51.8,4.23,122,18,3.74,youtube / social,Others
+20231129,590,444,263,45.1,3.04,255,15,2.63,google / organic,United Kingdom
+20231130,631,486,231,36.5,2.78,112,19,3.1,google / cpc,Others
+20231201,672,501,275,48.0,4.08,159,22,3.36,direct / none,Germany
+20231202,653,536,274,34.7,3.9,201,28,4.36,referral / referral,India
+20231203,530,406,257,40.1,3.53,102,17,3.32,google / cpc,United Kingdom
+20231204,497,373,227,37.1,3.19,161,17,3.5,direct / none,United States
+20231205,498,399,183,49.9,3.08,150,19,4.01,direct / none,Germany
+20231206,545,454,220,35.4,3.46,209,18,3.42,google / cpc,France
+20231207,581,457,237,52.6,2.76,128,28,4.93,facebook / social,United States
+20231208,570,421,209,40.9,2.63,147,28,4.97,google / organic,Australia
+20231209,484,398,242,52.1,3.61,155,22,4.6,facebook / social,Others
+20231210,487,356,195,44.4,3.26,195,20,4.3,referral / referral,United States
+20231211,435,349,202,30.3,3.72,179,17,4.0,referral / referral,Others
+20231212,472,344,158,57.9,3.02,179,19,4.16,facebook / social,Canada
+20231213,493,405,205,47.2,2.84,205,19,3.92,facebook / social,United States
+20231214,505,410,231,54.5,2.0,110,14,2.92,google / cpc,United States
+20231215,591,498,287,30.6,3.66,121,24,4.22,google / cpc,France
+20231216,601,439,199,21.9,3.18,186,34,5.66,facebook / social,Others
+20231217,455,383,244,55.0,3.71,193,23,5.11,twitter / social,United States
+20231218,455,366,209,40.9,2.77,183,15,3.36,google / cpc,United Kingdom
+20231219,484,393,211,43.6,3.11,148,19,4.05,youtube / social,Germany
+20231220,484,374,189,36.2,2.34,212,28,5.92,google / cpc,Japan
+20231221,554,468,276,36.5,3.65,195,35,6.46,email / newsletter,United States
+20231222,621,465,277,40.6,3.4,222,28,4.55,youtube / social,United Kingdom
+20231223,552,420,201,46.3,4.12,195,25,4.58,google / cpc,United States
+20231224,475,399,247,36.3,2.96,113,21,4.61,referral / referral,India
+20231225,494,387,245,33.6,3.62,262,22,4.62,direct / none,United States
+20231226,575,501,292,41.4,3.1,171,20,3.52,google / organic,Brazil
+20231227,525,416,225,50.0,3.48,104,22,4.24,referral / referral,United States
+20231228,610,470,291,40.7,2.5,192,29,4.92,google / cpc,Others
+20231229,668,514,271,36.4,4.37,217,30,4.5,google / organic,United Kingdom
+20231230,597,470,253,48.4,2.54,159,22,3.81,direct / none,Brazil
+20231231,538,404,195,43.2,3.91,219,14,2.76,twitter / social,United States
+20240101,501,373,192,29.7,3.09,163,18,3.69,facebook / social,United States
+20240102,508,434,259,31.3,2.89,169,22,4.52,facebook / social,Canada
+20240103,567,437,280,45.2,3.9,87,19,3.38,google / organic,United Kingdom
+20240104,609,481,273,48.4,3.15,251,16,2.73,referral / referral,United States
+20240105,659,564,353,45.0,2.74,204,8,1.27,direct / none,Others
+20240106,575,478,230,48.9,4.09,129,19,3.32,google / organic,United States
+20240107,494,428,231,47.8,4.32,245,18,3.82,google / organic,United States
+20240108,472,377,170,34.1,4.38,188,12,2.69,google / organic,Australia
+20240109,494,416,200,46.9,3.35,214,18,3.77,email / newsletter,United States
+20240110,535,386,199,50.9,3.49,234,11,2.15,google / organic,India
+20240111,592,472,220,45.3,4.8,208,13,2.31,referral / referral,Germany
+20240112,625,482,233,53.6,1.97,141,21,3.41,google / organic,United States
+20240113,482,400,215,30.2,4.13,197,14,2.91,youtube / social,Germany
+20240114,441,331,151,53.7,4.16,211,13,3.09,google / cpc,United States
+20240115,408,313,145,36.6,3.57,195,8,2.09,twitter / social,Others
+20240116,416,340,200,53.8,2.75,258,4,1.0,facebook / social,United Kingdom
+20240117,520,422,241,48.1,3.65,163,12,2.41,youtube / social,India
+20240118,582,438,243,34.8,3.79,197,13,2.34,google / organic,Canada
+20240119,637,542,269,48.0,3.37,159,13,2.07,google / cpc,India
+20240120,564,488,266,41.8,3.81,194,19,3.46,email / newsletter,United States
+20240121,476,344,200,35.0,3.24,245,4,1.0,twitter / social,Others
+20240122,525,395,203,36.5,3.3,148,9,1.71,google / cpc,Australia
+20240123,541,442,255,47.0,2.45,125,6,1.27,email / newsletter,Brazil
+20240124,580,418,247,49.5,3.27,136,12,2.17,youtube / social,United States
+20240125,693,528,255,42.5,2.3,176,19,2.8,google / cpc,Brazil
+20240126,746,610,380,41.6,3.5,171,10,1.41,google / cpc,Australia
+20240127,606,488,277,35.2,3.31,193,8,1.37,twitter / social,United States
+20240128,544,391,214,39.5,3.3,172,7,1.44,email / newsletter,United States
+20240129,550,429,218,32.4,2.61,213,5,1.0,referral / referral,Others
+20240130,530,444,215,46.3,3.59,140,10,1.93,youtube / social,India
+20240131,622,535,323,48.5,3.91,255,6,1.0,youtube / social,Australia
+20240201,677,593,345,53.2,2.48,191,12,1.82,youtube / social,United States
+20240202,646,490,224,57.7,2.97,212,6,1.0,google / cpc,United States
+20240203,649,468,250,46.5,3.02,282,7,1.21,twitter / social,France
+20240204,568,432,201,32.5,3.36,202,10,1.82,referral / referral,Japan
+20240205,488,402,192,53.3,2.78,147,4,1.0,facebook / social,United Kingdom
+20240206,537,415,197,42.0,2.89,227,10,1.97,referral / referral,India
+20240207,647,535,290,43.5,3.47,141,10,1.65,youtube / social,United States
+20240208,628,544,269,34.6,2.88,160,11,1.79,email / newsletter,Others
+20240209,570,468,300,27.3,3.74,213,11,2.03,google / organic,United Kingdom
+20240210,557,410,219,43.6,3.48,211,15,2.82,youtube / social,United Kingdom
+20240211,483,395,248,46.5,3.05,205,9,2.05,direct / none,India
+20240212,429,332,157,50.0,3.48,111,6,1.5,google / organic,United States
+20240213,484,358,231,46.7,3.14,203,4,1.0,google / organic,France
+20240214,583,496,315,42.9,3.51,199,14,2.56,referral / referral,India
+20240215,592,509,248,61.8,2.82,209,17,2.97,direct / none,United Kingdom
+20240216,574,432,213,46.0,2.67,88,20,3.5,email / newsletter,United Kingdom
+20240217,585,471,215,39.9,3.26,191,8,1.39,twitter / social,Germany
+20240218,474,366,174,28.3,2.17,191,9,2.05,twitter / social,Germany
+20240219,504,404,246,49.0,4.4,189,11,2.22,twitter / social,India
+20240220,507,385,189,38.5,3.85,177,15,2.98,youtube / social,Brazil
+20240221,551,405,249,39.3,4.79,173,23,4.25,referral / referral,India
+20240222,611,496,231,48.3,2.7,202,18,2.99,youtube / social,Germany
+20240223,670,493,256,58.4,4.21,248,20,3.04,google / organic,Germany
+20240224,660,523,319,35.3,3.33,140,20,3.09,referral / referral,Japan
+20240225,607,473,271,29.7,2.6,181,31,5.12,google / organic,Canada
+20240226,535,461,249,48.8,2.75,152,21,4.06,direct / none,India
+20240227,558,433,280,37.9,2.99,180,22,3.98,facebook / social,Australia
+20240228,604,460,228,36.7,3.38,158,29,4.88,direct / none,Germany
+20240229,641,522,274,52.1,1.71,129,22,3.44,youtube / social,United States
+20240301,657,474,258,45.0,3.89,152,32,4.88,direct / none,United States
+20240302,679,581,290,34.3,3.72,218,27,4.11,direct / none,Canada
+20240303,547,398,197,33.5,3.41,161,29,5.34,facebook / social,United States
+20240304,569,491,259,37.8,3.28,226,26,4.69,email / newsletter,Brazil
+20240305,512,411,195,40.1,3.65,195,25,4.98,referral / referral,United States
+20240306,532,425,234,41.6,4.41,211,24,4.61,google / cpc,Others
+20240307,614,508,292,37.3,2.9,152,18,3.01,facebook / social,Others
+20240308,648,539,325,42.5,2.91,167,34,5.33,google / organic,Brazil
+20240309,585,460,224,53.3,3.48,235,25,4.43,google / cpc,India
+20240310,534,419,237,44.5,3.17,168,18,3.46,referral / referral,United States
+20240311,537,445,286,44.2,3.42,178,32,6.1,google / cpc,India
+20240312,491,391,179,46.6,4.34,176,22,4.5,email / newsletter,Germany
+20240313,537,440,207,23.8,3.18,139,23,4.43,youtube / social,Others
+20240314,580,450,230,63.7,2.53,201,23,4.09,direct / none,Germany
+20240315,603,488,225,51.5,2.51,240,26,4.35,youtube / social,United States
+20240316,620,529,285,42.9,3.56,160,19,3.09,twitter / social,Australia
+20240317,545,428,222,50.7,2.87,170,27,5.1,referral / referral,United States
+20240318,524,409,212,41.2,3.84,179,20,3.88,facebook / social,India
+20240319,503,383,189,35.1,4.02,214,23,4.67,youtube / social,India
+20240320,544,441,240,49.8,3.28,200,22,4.08,google / organic,Canada
+20240321,631,544,276,46.5,2.54,159,31,5.03,facebook / social,United States
+20240322,646,467,274,56.6,3.04,240,29,4.54,youtube / social,India
+20240323,664,524,259,40.2,4.43,216,28,4.34,email / newsletter,United States
+20240324,587,492,311,39.7,3.23,134,30,5.15,google / cpc,Australia
+20240325,476,379,236,34.6,3.06,216,18,3.85,facebook / social,United Kingdom
+20240326,517,450,266,45.9,3.97,139,24,4.71,email / newsletter,India
+20240327,608,469,269,50.6,2.68,196,18,3.1,google / organic,United Kingdom
+20240328,730,614,308,30.7,3.23,158,24,3.3,facebook / social,United Kingdom
+20240329,675,557,316,47.5,2.72,297,26,3.97,direct / none,India
+20240330,660,526,262,41.9,3.54,236,29,4.53,email / newsletter,India
+20240331,601,441,222,46.5,3.28,174,23,3.98,direct / none,Others
+20240401,561,458,263,51.9,3.01,219,13,2.47,google / organic,India
+20240402,573,438,275,36.8,3.13,235,20,3.64,twitter / social,Others
+20240403,591,501,267,32.5,2.64,143,17,2.88,youtube / social,Others
+20240404,689,507,318,46.1,4.1,238,26,3.86,referral / referral,United States
+20240405,648,512,251,34.0,3.85,200,27,4.23,email / newsletter,United States
+20240406,646,511,277,34.0,3.05,147,20,3.16,email / newsletter,United States
+20240407,535,440,245,31.5,3.06,182,12,2.4,google / organic,India
+20240408,484,351,208,60.8,2.16,259,12,2.67,referral / referral,United States
+20240409,503,413,220,22.5,3.8,176,15,3.14,google / organic,United States
+20240410,533,387,218,49.9,3.8,196,10,1.97,google / cpc,United States
+20240411,625,476,241,44.8,3.13,225,17,2.76,referral / referral,Japan
+20240412,685,552,318,50.7,2.94,156,16,2.4,google / organic,India
+20240413,515,447,248,47.9,2.4,169,8,1.71,email / newsletter,United Kingdom
+20240414,528,444,282,50.2,3.26,273,17,3.37,referral / referral,Australia
+20240415,408,333,179,39.8,3.76,154,9,2.39,facebook / social,United States
+20240416,509,430,228,41.4,3.72,192,15,3.09,youtube / social,India
+20240417,498,363,204,44.3,2.45,245,8,1.63,google / organic,United Kingdom
+20240418,605,459,278,57.0,2.08,183,17,2.84,youtube / social,United Kingdom
+20240419,653,555,322,38.3,4.05,189,11,1.79,google / organic,India
+20240420,575,476,224,36.0,2.88,181,5,1.0,youtube / social,India
+20240421,563,439,251,35.0,3.68,171,6,1.09,facebook / social,United States
+20240422,547,448,246,31.6,3.89,209,18,3.31,google / organic,United States
+20240423,574,419,259,38.8,3.44,157,5,1.0,email / newsletter,Others
+20240424,577,442,210,29.4,3.12,211,11,1.92,referral / referral,United States
+20240425,705,587,341,45.6,3.56,191,18,2.63,direct / none,United States
+20240426,686,534,337,32.8,2.97,172,14,2.16,referral / referral,United Kingdom
+20240427,681,546,346,38.6,2.94,181,12,1.9,direct / none,United States
+20240428,635,515,288,36.7,3.87,240,6,1.0,google / cpc,Germany
+20240429,546,454,229,53.6,3.34,248,5,1.0,direct / none,Canada
+20240430,589,429,204,55.5,3.58,256,6,1.1,google / organic,India
+20240501,609,494,317,45.9,2.41,194,12,2.08,referral / referral,United States
+20240502,651,562,259,41.7,3.76,92,9,1.44,twitter / social,United States
+20240503,729,524,259,46.3,3.82,178,13,1.84,google / cpc,France
+20240504,605,437,203,53.1,3.01,221,10,1.69,twitter / social,United States
+20240505,609,535,339,27.9,3.9,179,6,1.0,email / newsletter,India
+20240506,555,433,225,54.2,3.44,163,9,1.68,direct / none,Germany
+20240507,494,398,229,33.0,2.24,160,5,1.06,google / organic,France
+20240508,568,441,221,50.7,3.03,233,11,1.95,youtube / social,India
+20240509,633,542,262,34.2,3.51,169,6,1.0,facebook / social,United States
+20240510,605,480,262,47.2,4.04,153,12,2.0,direct / none,Others
+20240511,598,462,235,48.2,2.61,244,12,2.17,youtube / social,Germany
+20240512,513,433,238,45.6,4.31,293,9,1.79,referral / referral,India
+20240513,480,374,225,38.8,2.72,155,8,1.84,youtube / social,United States
+20240514,464,408,254,38.0,3.98,159,7,1.53,google / cpc,Canada
+20240515,531,417,194,33.4,3.54,227,12,2.28,referral / referral,Canada
+20240516,619,507,239,49.2,2.77,129,10,1.7,email / newsletter,India
+20240517,659,506,238,57.4,2.89,116,16,2.47,direct / none,France
+20240518,636,505,289,47.4,3.33,147,19,3.04,direct / none,India
+20240519,497,397,194,22.8,2.54,206,12,2.49,referral / referral,India
+20240520,512,401,245,32.3,3.69,213,19,3.89,youtube / social,United States
+20240521,608,476,297,44.5,2.09,159,11,1.93,email / newsletter,United States
+20240522,621,507,235,55.3,4.35,108,14,2.39,youtube / social,Brazil
+20240523,637,551,299,42.7,2.63,204,27,4.31,google / organic,United States
+20240524,681,537,318,36.5,4.6,169,30,4.46,twitter / social,United Kingdom
+20240525,677,514,265,49.2,2.92,206,18,2.7,youtube / social,India
+20240526,636,461,227,44.0,2.86,210,26,4.22,email / newsletter,Australia
+20240527,607,529,315,45.9,3.95,90,24,4.02,google / cpc,Australia
+20240528,644,485,260,51.0,3.34,216,22,3.45,referral / referral,Brazil
+20240529,661,516,283,43.0,3.25,222,21,3.32,facebook / social,Canada
+20240530,728,566,362,49.4,2.68,221,38,5.24,direct / none,France
+20240531,769,594,319,39.5,3.14,200,26,3.5,facebook / social,Others
+20240601,734,624,379,45.0,4.11,136,20,2.86,google / organic,United States
+20240602,600,449,241,37.3,3.14,192,24,4.07,email / newsletter,United States
+20240603,561,434,239,40.1,4.07,192,24,4.35,direct / none,Germany
+20240604,614,526,266,33.9,3.62,109,20,3.28,email / newsletter,United States
+20240605,620,461,282,38.9,3.26,153,26,4.32,referral / referral,Others
+20240606,640,536,344,35.8,2.42,175,29,4.6,referral / referral,United States
+20240607,685,537,303,63.6,3.03,194,34,5.07,google / organic,India
+20240608,610,446,228,38.0,3.21,130,27,4.58,google / cpc,India
+20240609,581,459,265,33.8,2.81,223,30,5.3,email / newsletter,United States
+20240610,491,427,207,48.7,3.21,121,22,4.57,google / organic,France
+20240611,579,440,226,50.3,3.35,221,34,5.91,email / newsletter,United States
+20240612,573,461,243,36.9,3.23,173,26,4.57,facebook / social,Others
+20240613,634,546,286,47.7,3.18,251,27,4.31,facebook / social,United States
+20240614,659,495,316,46.3,2.48,195,31,4.79,referral / referral,United States
+20240615,570,488,303,28.5,4.46,162,32,5.66,direct / none,Others
+20240616,573,495,263,31.6,3.26,196,26,4.61,youtube / social,United States
+20240617,553,453,289,28.7,3.4,195,27,5.05,email / newsletter,India
+20240618,462,368,197,45.2,3.78,130,18,3.98,google / organic,United States
+20240619,603,461,255,49.1,3.45,224,31,5.21,google / cpc,United States
+20240620,681,527,277,47.6,3.23,152,39,5.73,google / organic,Others
+20240621,694,548,348,46.7,3.45,187,27,4.02,referral / referral,Canada
+20240622,689,548,338,46.3,2.56,205,21,3.17,twitter / social,India
+20240623,599,502,230,40.1,4.14,224,26,4.42,direct / none,United States
+20240624,571,448,238,34.6,3.19,168,21,3.73,google / organic,United States
+20240625,596,501,321,51.3,2.72,120,24,4.08,facebook / social,India
+20240626,677,525,329,45.3,3.21,184,38,5.65,email / newsletter,United States
+20240627,690,595,306,41.0,3.37,206,23,3.41,referral / referral,Australia
+20240628,755,579,308,32.6,3.54,169,30,4.08,google / cpc,France
+20240629,665,526,296,51.1,3.88,179,25,3.77,referral / referral,Others
+20240630,649,549,327,37.1,2.95,206,25,3.96,twitter / social,United Kingdom
+20240701,569,486,252,43.0,2.72,234,17,3.05,youtube / social,India
+20240702,533,387,250,42.1,3.16,164,18,3.51,google / cpc,India
+20240703,649,547,318,46.2,2.54,189,19,2.94,facebook / social,United States
+20240704,679,594,289,26.8,3.24,275,26,3.84,facebook / social,United States
+20240705,720,593,330,50.0,4.04,230,27,3.79,referral / referral,Others
+20240706,667,532,262,61.6,3.77,111,18,2.7,email / newsletter,United Kingdom
+20240707,608,441,226,52.6,2.78,168,18,3.02,twitter / social,Others
+20240708,545,435,276,52.1,3.5,132,16,3.02,youtube / social,Others
+20240709,567,487,228,55.8,2.94,234,14,2.54,email / newsletter,India
+20240710,622,462,232,41.0,3.5,197,15,2.43,google / cpc,India
+20240711,680,591,300,41.9,2.87,171,23,3.49,email / newsletter,India
+20240712,627,490,288,46.0,3.29,199,16,2.57,twitter / social,Australia
+20240713,643,519,335,49.9,3.36,164,13,2.13,email / newsletter,United States
+20240714,613,471,228,27.9,3.02,191,9,1.54,youtube / social,France
+20240715,505,366,183,49.3,2.71,206,7,1.56,twitter / social,Brazil
+20240716,559,469,293,54.9,3.97,167,5,1.0,referral / referral,United States
+20240717,653,479,309,31.7,2.98,133,12,1.91,referral / referral,United Kingdom
+20240718,695,570,358,55.2,2.77,187,10,1.48,google / cpc,Germany
+20240719,674,492,304,35.9,2.72,191,17,2.57,google / organic,United States
+20240720,657,565,364,44.3,2.75,245,10,1.54,youtube / social,India
+20240721,648,537,284,44.6,3.08,173,6,1.0,google / organic,United Kingdom
+20240722,548,430,251,34.8,3.08,163,8,1.53,google / organic,United States
+20240723,624,520,334,32.6,3.07,267,14,2.28,facebook / social,Canada
+20240724,693,542,295,57.8,4.05,163,12,1.73,google / organic,United Kingdom
+20240725,743,605,280,35.5,3.4,231,15,2.12,youtube / social,India
+20240726,765,563,329,40.2,2.54,173,14,1.88,direct / none,India
+20240727,713,515,257,60.8,3.72,152,10,1.48,twitter / social,United Kingdom
+20240728,652,492,290,44.9,3.14,216,6,1.0,direct / none,United States
+20240729,604,524,252,33.5,2.38,199,10,1.79,youtube / social,France
+20240730,615,452,205,30.8,3.91,173,14,2.38,twitter / social,Brazil
+20240731,621,527,310,55.9,3.99,197,10,1.73,youtube / social,United Kingdom
+20240801,722,601,350,46.2,3.12,259,7,1.0,email / newsletter,Germany
+20240802,750,564,284,25.8,3.04,243,17,2.37,direct / none,India
+20240803,676,537,311,30.0,3.9,199,11,1.73,email / newsletter,United Kingdom
+20240804,591,485,235,42.1,4.36,162,10,1.84,twitter / social,United States
+20240805,574,503,244,42.3,2.78,175,7,1.36,google / organic,Others
+20240806,524,406,204,54.2,2.03,181,9,1.8,direct / none,India
+20240807,549,470,298,38.8,4.47,194,8,1.51,facebook / social,Others
+20240808,673,506,314,35.0,3.55,226,10,1.56,twitter / social,Canada
+20240809,654,500,244,48.0,4.26,238,16,2.5,direct / none,Others
+20240810,592,512,312,39.6,2.7,214,5,1.0,facebook / social,United States
+20240811,558,416,242,45.9,3.2,166,19,3.5,twitter / social,United Kingdom
+20240812,519,409,213,45.6,3.03,164,5,1.12,google / cpc,India
+20240813,579,479,225,51.9,2.41,77,19,3.32,youtube / social,Japan
+20240814,611,528,255,44.9,2.08,155,14,2.43,twitter / social,United States
+20240815,694,549,355,42.8,2.21,244,12,1.78,youtube / social,Australia
+20240816,716,534,321,38.6,2.72,258,21,2.96,direct / none,United Kingdom
+20240817,669,553,313,53.1,3.27,248,22,3.38,google / organic,United States
+20240818,616,506,314,55.4,3.53,208,12,2.02,email / newsletter,United States
+20240819,559,455,214,41.8,2.71,185,16,2.98,youtube / social,India
+20240820,586,491,246,45.8,3.0,168,21,3.74,direct / none,United States
+20240821,670,537,335,28.5,4.1,221,31,4.73,twitter / social,United States
+20240822,734,633,373,52.2,2.95,179,15,2.16,google / cpc,Others
+20240823,845,711,367,53.7,4.1,203,30,3.57,referral / referral,France
+20240824,726,555,353,34.9,2.76,182,37,5.22,twitter / social,India
+20240825,632,505,252,49.0,2.52,163,19,3.11,direct / none,United States
+20240826,580,437,282,47.1,2.99,125,16,2.93,google / cpc,United States
+20240827,584,508,278,43.5,2.82,218,22,3.86,referral / referral,India
+20240828,728,606,330,42.1,2.41,219,27,3.82,twitter / social,India
+20240829,713,564,345,54.4,3.35,228,23,3.28,google / cpc,Others
+20240830,776,564,271,32.4,4.07,211,33,4.36,youtube / social,India
+20240831,729,596,292,36.4,2.8,130,38,5.22,email / newsletter,United States
+20240901,608,498,301,41.6,3.01,190,28,4.73,youtube / social,Germany
+20240902,597,461,268,30.9,1.99,167,25,4.21,referral / referral,United States
+20240903,621,533,296,43.6,2.78,237,25,4.11,referral / referral,United States
+20240904,587,488,230,36.8,3.85,236,28,4.78,twitter / social,India
+20240905,711,605,302,39.1,3.0,206,24,3.51,google / organic,Germany
+20240906,737,571,292,33.6,3.96,149,33,4.61,google / organic,Australia
+20240907,650,533,335,37.1,3.8,182,22,3.47,google / cpc,Canada
+20240908,568,469,272,40.5,3.08,237,25,4.47,direct / none,United States
+20240909,527,393,223,44.2,2.68,195,24,4.62,email / newsletter,United States
+20240910,478,359,211,41.2,2.91,142,15,3.25,email / newsletter,United States
+20240911,588,461,277,35.8,3.44,158,31,5.35,direct / none,United States
+20240912,686,583,359,62.6,3.53,284,35,5.22,youtube / social,Others
+20240913,652,570,285,50.8,3.23,195,28,4.37,facebook / social,United Kingdom
+20240914,655,543,252,44.9,4.57,213,35,5.45,email / newsletter,United States
+20240915,626,538,338,51.6,1.93,291,30,4.91,direct / none,India
+20240916,560,453,234,33.8,2.97,211,20,3.67,email / newsletter,India
+20240917,615,479,284,31.4,4.37,174,36,5.97,direct / none,Germany
+20240918,620,533,271,31.5,2.9,212,25,4.09,twitter / social,United States
+20240919,713,532,249,36.6,1.5,190,28,4.0,twitter / social,United States
+20240920,788,613,359,44.5,2.52,221,33,4.22,youtube / social,Australia
+20240921,687,596,309,48.1,3.39,130,24,3.57,youtube / social,Brazil
+20240922,651,555,253,39.3,2.26,182,22,3.51,google / organic,Japan
+20240923,732,584,299,44.9,3.91,130,31,4.24,direct / none,India
+20240924,657,529,299,43.1,2.61,111,25,3.82,google / organic,Canada
+20240925,703,510,307,40.1,2.76,154,37,5.4,facebook / social,Others
+20240926,712,591,274,47.3,1.92,129,27,3.82,direct / none,Australia
+20240927,756,646,392,51.6,2.83,208,26,3.55,youtube / social,United States
+20240928,715,596,282,27.5,2.59,193,34,4.89,twitter / social,France
+20240929,622,511,328,42.8,3.1,222,17,2.89,twitter / social,France
+20240930,586,497,257,28.7,3.04,150,23,3.96,google / organic,United Kingdom
+20241001,632,479,305,49.8,2.74,185,26,4.14,google / cpc,United States
+20241002,644,555,320,49.7,3.23,192,16,2.55,facebook / social,Canada
+20241003,729,600,285,31.2,3.1,219,22,3.11,google / organic,Japan
+20241004,678,518,283,45.3,3.54,216,15,2.29,twitter / social,France
+20241005,638,526,276,33.6,3.64,272,21,3.37,direct / none,Japan
+20241006,656,542,281,43.7,3.62,180,22,3.39,google / cpc,India
+20241007,588,455,237,36.4,1.91,143,13,2.22,facebook / social,United States
+20241008,588,502,245,51.3,2.7,116,10,1.71,email / newsletter,United States
+20241009,645,553,255,42.4,2.94,208,10,1.6,youtube / social,India
+20241010,674,585,301,48.4,3.64,91,14,2.1,google / organic,India
+20241011,725,576,330,44.0,3.16,135,29,4.06,direct / none,Germany
+20241012,639,476,227,48.5,2.99,232,11,1.87,twitter / social,United States
+20241013,623,531,292,47.6,2.46,199,11,1.78,email / newsletter,India
+20241014,546,435,276,44.4,3.58,150,9,1.82,google / cpc,India
+20241015,606,494,227,31.1,4.95,184,11,1.84,google / cpc,United States
+20241016,666,584,324,37.2,4.34,181,7,1.12,facebook / social,United States
+20241017,731,554,320,37.5,3.59,195,11,1.6,google / organic,United Kingdom
+20241018,693,565,293,43.9,3.07,157,20,2.96,twitter / social,Canada
+20241019,685,585,332,42.9,2.72,177,11,1.69,google / organic,United States
+20241020,682,579,302,26.1,2.96,201,9,1.33,facebook / social,Japan
+20241021,613,495,317,52.0,2.66,167,6,1.0,youtube / social,United States
+20241022,635,544,255,44.0,3.15,221,6,1.0,direct / none,France
+20241023,693,532,245,34.6,3.11,177,8,1.26,direct / none,United States
+20241024,798,636,371,50.7,3.67,275,17,2.25,facebook / social,United States
+20241025,790,668,332,33.6,3.18,143,14,1.9,google / organic,United States
+20241026,734,574,325,46.7,3.52,213,10,1.4,twitter / social,Others
+20241027,658,491,262,42.9,3.33,204,9,1.44,google / organic,India
+20241028,630,471,265,43.8,3.1,189,17,2.86,direct / none,Germany
+20241029,634,543,346,48.3,4.02,249,6,1.0,twitter / social,India
+20241030,727,553,342,50.8,3.07,155,7,1.0,direct / none,Others
+20241031,753,616,293,33.7,3.29,115,7,1.0,google / cpc,Canada
+20241101,750,586,274,31.8,3.1,88,7,1.0,youtube / social,United States
+20241102,596,458,214,50.9,3.03,234,13,2.19,google / cpc,United States
+20241103,631,537,335,38.6,2.38,177,19,3.08,facebook / social,India
+20241104,594,518,239,40.1,3.5,228,11,1.87,google / organic,India
+20241105,554,460,279,43.7,3.48,194,12,2.18,youtube / social,Others
+20241106,681,592,278,37.3,3.86,182,17,2.5,facebook / social,United States
+20241107,676,500,322,35.9,2.52,240,8,1.22,twitter / social,United States
+20241108,677,534,305,41.0,4.11,170,11,1.73,youtube / social,Others
+20241109,640,560,291,34.5,3.4,134,20,3.2,referral / referral,Brazil
+20241110,581,425,239,33.1,2.44,188,17,3.05,google / organic,Brazil
+20241111,560,463,278,43.8,2.58,167,13,2.39,google / cpc,India
+20241112,571,420,250,45.3,3.57,228,9,1.61,direct / none,India
+20241113,645,520,267,49.1,3.05,177,18,2.81,direct / none,Australia
+20241114,700,612,380,49.9,3.11,145,11,1.6,google / cpc,United States
+20241115,720,545,314,50.5,2.9,122,27,3.86,youtube / social,Others
+20241116,637,520,332,34.0,3.06,228,17,2.75,google / cpc,United Kingdom
+20241117,657,497,247,37.3,3.57,171,13,2.07,facebook / social,United Kingdom
+20241118,627,518,308,53.2,3.71,194,21,3.38,youtube / social,India
+20241119,675,520,253,41.9,3.48,102,24,3.69,email / newsletter,Canada
+20241120,676,542,271,48.7,2.38,199,26,3.9,youtube / social,India
+20241121,791,677,432,34.4,3.34,160,26,3.31,google / cpc,Brazil
+20241122,793,573,337,41.9,4.11,192,21,2.71,direct / none,France
+20241123,793,695,344,40.7,2.67,121,22,2.78,twitter / social,Brazil
+20241124,716,521,236,40.6,3.15,110,28,4.01,email / newsletter,United States
+20241125,688,595,299,51.5,3.34,231,27,3.94,referral / referral,United Kingdom
+20241126,670,501,260,33.2,3.19,150,21,3.24,youtube / social,Canada
+20241127,721,543,348,48.4,3.04,217,27,3.86,youtube / social,Canada
+20241128,793,652,395,34.6,3.81,172,34,4.39,referral / referral,Australia
+20241129,824,647,363,41.3,2.83,150,26,3.25,direct / none,United States
+20241130,735,622,286,43.7,4.12,76,19,2.64,direct / none,India
+20241201,644,533,298,48.3,4.27,164,29,4.55,referral / referral,India
+20241202,626,515,275,50.1,2.61,172,28,4.54,twitter / social,United States
+20241203,630,510,271,42.8,3.4,168,20,3.24,twitter / social,Australia
+20241204,640,495,251,45.4,2.94,145,18,2.91,youtube / social,United States
+20241205,694,546,271,51.2,3.81,187,43,6.32,facebook / social,United States
+20241206,720,535,333,23.6,2.67,227,29,4.13,google / organic,United States
+20241207,675,490,301,30.8,3.41,167,23,3.42,facebook / social,Japan
+20241208,634,480,293,35.2,2.93,185,15,2.38,direct / none,India
+20241209,594,521,282,55.2,4.02,168,28,4.85,google / cpc,India
+20241210,569,470,262,41.0,3.25,210,37,6.67,google / cpc,United Kingdom
+20241211,622,508,272,31.8,3.14,152,32,5.2,google / organic,Canada
+20241212,678,527,282,43.4,3.59,138,37,5.54,youtube / social,Others
+20241213,709,573,353,42.4,2.9,203,23,3.26,facebook / social,Others
+20241214,705,580,366,46.8,3.33,183,36,5.24,twitter / social,United States
+20241215,667,493,309,48.3,4.67,202,29,4.44,google / cpc,Others
+20241216,617,532,318,47.1,3.2,173,24,3.94,email / newsletter,Others
+20241217,644,522,254,37.7,2.35,187,28,4.43,youtube / social,Others
+20241218,664,479,286,32.9,3.14,224,26,3.97,facebook / social,United Kingdom
+20241219,795,600,367,51.8,3.5,192,33,4.28,google / organic,United States
+20241220,801,632,292,47.1,3.33,138,29,3.68,youtube / social,Brazil
+20241221,767,650,292,41.6,3.64,212,30,3.96,google / organic,Germany
+20241222,695,534,293,47.8,3.63,138,40,5.79,direct / none,Others
+20241223,671,589,327,32.9,3.12,105,23,3.56,twitter / social,United Kingdom
+20241224,678,490,231,43.5,3.98,151,32,4.86,facebook / social,United Kingdom
+20241225,732,545,337,47.1,3.98,258,31,4.26,youtube / social,United States
+20241226,832,621,314,40.0,3.93,208,32,3.85,direct / none,United States
+20241227,791,572,362,46.2,3.41,193,37,4.72,twitter / social,India
+20241228,767,580,340,37.0,3.35,209,33,4.38,email / newsletter,United States
+20241229,667,541,247,47.1,3.32,243,13,2.06,youtube / social,India
+20241230,658,495,317,56.2,3.36,191,28,4.35,facebook / social,United States
+20241231,635,501,263,43.6,3.09,172,11,1.89,google / organic,Brazil
